@@ -1,0 +1,14 @@
+format to: gwiazdka, dane, gwiazdka [wszystkie znaki pomiedzy gwiazdkami zostana uznane za dane], poprawna opowiedz
+*2
+4
+
+*6 
+*
+
+
+
+*2
+5
+
+*7 
+*
